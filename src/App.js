@@ -1,9 +1,11 @@
 import Home from "./pages/Home";
 
 function App() {
+  console.log("hello world")
   return (
     <>
       <Home />
+
     </>
   );
 }
